@@ -1,5 +1,5 @@
 # Visit site [here](supersheeep.netlify.app).
 
-Just a simple site to link to my youtube gaming channel.
+A simple site using HTML, CSS, JavaScript.
 
-Not sure what to add next just made for fun.
+Things I learned were making unique, simple profile for a client.
